@@ -1,0 +1,5 @@
+/Users/Elg/Projects/Interface/Interface/obj/x86/Debug/Interface.csproj.CoreCompileInputs.cache
+/Users/Elg/Projects/Interface/Interface/bin/Debug/Interface.exe
+/Users/Elg/Projects/Interface/Interface/bin/Debug/Interface.pdb
+/Users/Elg/Projects/Interface/Interface/obj/x86/Debug/Interface.exe
+/Users/Elg/Projects/Interface/Interface/obj/x86/Debug/Interface.pdb
